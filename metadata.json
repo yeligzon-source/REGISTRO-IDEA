@@ -1,0 +1,6 @@
+{
+  "name": "REGISTRO IDEA",
+  "description": "Una aplicación elegante y moderna para registrar, buscar y administrar tus actividades diarias, notas, emociones y hábitos con persistencia de base de datos local.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
